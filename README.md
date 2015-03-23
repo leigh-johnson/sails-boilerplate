@@ -1,7 +1,7 @@
 # sails-boilerplate 
 Full Stack Sanity~!
 
-Dependency and module management split between [NPM](https://www.npmjs.com/) (back-end) and [Bower](http://bower.io/) (front-end) for easily delegation or pure sanity across the stack. 
+Dependency and module management split between [NPM](https://www.npmjs.com/) (back-end) and [Bower](http://bower.io/) (front-end) for simple project delegation or pure sanity across the stack. 
 
 Pipeline supports [Bootstrap](http://getbootstrap.com/), [Angular](https://angularjs.org/), [Angular Directives] (https://angular-ui.github.io/bootstrap/) for Bootstrap, [Jade](http://jade-lang.com/) templates, and [Sass](http://sass-lang.com/), straight out of the box. 
 
