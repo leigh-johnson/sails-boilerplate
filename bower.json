@@ -1,0 +1,38 @@
+{
+  "name": "sails-boilerplate",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Nuwen/sails-boilerplate.git",
+  "author": [
+    "Leigh Johnson <hi@leighjohnson.me>"
+  ],
+  "description": "Full stack boilerplate & pipeline for Sails.js.",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "sails",
+    "node",
+    "sass",
+    "bower",
+    "angular",
+    "patch",
+    "utility",
+    "test",
+    "suite",
+    "video",
+    "game",
+    "QA"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.4"
+  }
+}

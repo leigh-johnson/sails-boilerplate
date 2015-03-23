@@ -1,0 +1,22 @@
+html(ng-app='patch-it')
+  head
+    title= sails.config.appName + ' | ' + title
+    // SCRIPTS
+    script(src="/js/dependencies/sails.io.js")
+    script(src="/js/dependencies/angular/angular.js")
+    script(src="/js/dependencies/angular-bootstrap/ui-bootstrap-tpls.js")
+    script(src="/js/dependencies/jquery/jquery.js")
+    script(src="/js/dependencies/ng-clip/ngClip.js")
+    script(src="/js/dependencies/zeroclipboard/ZeroClipboard.js")
+    script(src="/js/app.js")
+    script(src="/js/modules/suite.js")
+    // SCRIPTS END
+    // STYLES
+    link(rel="stylesheet", href="/styles/importer.css")
+    // STYLES END
+
+  body
+    block menu
+    block content
+    block footer
+    block scripts
