@@ -1,10 +1,10 @@
 # sails-boilerplate 
-Full Stack Sanity~!
 
 ![Open Issues](https://img.shields.io/github/issues/Nuwen/sails-boilerplate.svg?style=flat-square "Open Issues")
 ![Dependencies](https://img.shields.io/gemnasium/Nuwen/sails-boilerplate.svg?style=flat-square "Dependencies")
 
-![https://img.shields.io/gemnasium/mathiasbynens/he.svg
+Full Stack Sanity~!
+
 Dependency and module management split between [NPM](https://www.npmjs.com/) (back-end) and [Bower](http://bower.io/) (front-end) for simple project delegation or pure sanity across the stack. 
 
 Pipeline supports [Bootstrap](http://getbootstrap.com/), [Angular](https://angularjs.org/), [Angular Directives] (https://angular-ui.github.io/bootstrap/) for Bootstrap, [Jade](http://jade-lang.com/) templates, and [Sass](http://sass-lang.com/), straight out of the box. 
@@ -34,4 +34,3 @@ Use this file to declare granular bower configurations. Do NOT modify `options: 
 Use this file to manage the SASS pipeline. By default, Bootstrap styles are in the **loadPath** and `assets/scsss/importer.scss` is used to declare dependencies & partials.
 
 These are just [Grunt](http://gruntjs.com/) tasks, so modify to your own spec!
-
