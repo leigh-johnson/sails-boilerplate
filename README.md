@@ -15,7 +15,7 @@ Built to rapidly prototype enterprise-grade realtime applications with [Sails.js
 2. `cd myproject`
 3. `npm install`
 4. `bower install`
-5. `rm -r bower_components/boostrap-sails-official/assets/javascripts` REQUIRED: delete Bootstrap javascripts to prevent conflicts with Angular Directives for Bootstrap. Angular Directives will break if you skip this step!  
+5. `rm -r bower_components/boostrap-sass-official/assets/javascripts` REQUIRED: delete Bootstrap javascripts to prevent conflicts with Angular Directives for Bootstrap. Angular Directives will break if you skip this step!  
 6. `sails lift`, `sails lift --debug` or `sails lift --verbose` to init your app with development debugging.
 7. `sails lift --prod` to init your app in minified production mode.
 
