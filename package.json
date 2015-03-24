@@ -33,8 +33,8 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nuwen/patch-it.git"
+    "url": "git://github.com/nuwen/sails-boilerplate.git"
   },
-  "Leigh Johnson <hi@leighjohnson.me>"
+  "Leigh Johnson <hi@leighjohnson.me> (http://leighjohnson.me)"
   "license": "MIT"
 }
