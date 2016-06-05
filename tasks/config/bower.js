@@ -9,9 +9,8 @@ module.exports = function(grunt) {
           expand: true,
           keepExpandedHierarchy: false,
           ignorePackages: ['bootstrap-sass-official']
-          }
         }
-      }
+    }
   });
 
   grunt.loadNpmTasks('grunt-bower');

@@ -8,6 +8,7 @@
     "bcrypt": "^0.8.1",
     "ejs": "~0.8.4",
     "grunt": "0.4.2",
+    "grunt-bower": "^0.21.2",
     "grunt-contrib-clean": "~0.5.0",
     "grunt-contrib-coffee": "~0.10.1",
     "grunt-contrib-concat": "~0.3.0",
@@ -35,6 +36,6 @@
     "type": "git",
     "url": "git://github.com/nuwen/sails-boilerplate.git"
   },
-  "Leigh Johnson <hi@leighjohnson.me> (http://leighjohnson.me)"
+  "author": "Leigh Johnson <hi@leighjohnson.me> (http://leighjohnson.me)",
   "license": "MIT"
 }
